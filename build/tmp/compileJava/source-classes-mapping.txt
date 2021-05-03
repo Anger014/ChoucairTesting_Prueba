@@ -1,0 +1,16 @@
+tasks/OpenUp.java
+ tasks.OpenUp
+userinterface/ChoucarAcademyPage.java
+ userinterface.ChoucarAcademyPage
+tasks/Search.java
+ tasks.Search
+userinterface/ChoucairLoginPage.java
+ userinterface.ChoucairLoginPage
+questions/Answer.java
+ questions.Answer
+userinterface/SearchCoursePage.java
+ userinterface.SearchCoursePage
+tasks/Login.java
+ tasks.Login
+model/AcademyChoucairData.java
+ model.AcademyChoucairData
